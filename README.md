@@ -4,7 +4,7 @@
 
 ## Objective
 
-- Find the best machine learning model and params for predicting diamonds price [dataset](https://www.kaggle.com/c/diamonds-datamad1021-rev/overview)
+- Find the best machine learning model and params for predicting diamonds price in this [Kaggle competition](https://www.kaggle.com/c/diamonds-datamad1021-rev/overview)
 
 ## Structure
 * 1. **Data** train and test datasets, cleaned datasets and submissions.
@@ -14,3 +14,11 @@
 * 3. **src** Where we store the python files that contains the functions used in both Jupyter Notebooks.
 
 ## Libraries
+
+[pandas](https://pandas.pydata.org/docs/)
+
+[seaborn](https://seaborn.pydata.org/)
+
+[plotly](https://plotly.com/python/)
+
+[sklearn](https://scikit-learn.org/stable/)
